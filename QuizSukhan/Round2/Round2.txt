@@ -1,0 +1,26 @@
+*Q1*Identify the flag:liberia@null@null@null/liberia
+*Q2*Identify the flag:netherlands@null@null@null/netherlands
+*Q3*Identify the flag:russia@null@null@null/russia
+*Q4*Identify the flag:sudan@null@null@null/sudan
+*Q5*Identify the flag:united kingdom@null@null@null/united kingdom
+*Q6*Identify the flag:vietnam@null@null@null/vietnam
+*Q7*Identify the following person:DG ISPR Major General Asif Ghafoor@null@null@null/DG ISPR Major General Asif Ghafoor
+*Q8*Identify the following person:Chaoudahary Parvaiz Ilahi@null@null@null/Chaoudahary Parvaiz Ilahi
+*Q9*Identify the following person:Bano Qudsia@null@null@null/Bano Qudsia
+*Q10*Identify the following person:Asad Umar@null@null@null/Asad Umar
+*Q11*Identify the following person:Nadeem Baig@null@null@null/Nadeem Baig
+*Q12*Identify the following person:Hina Rabbani Khar@null@null@null/Hina Rabbani Khar
+*Q13*Identify the following place:Leaning tower of Pisa@null@null@null/Leaning tower of Pisa
+*Q14*Identify the following place:Big Ben@null@null@null/Big Ben
+*Q15*Identify the following place:Capital Hill,Washington DC@null@null@null/Capital Hill,Washington DC
+*Q16*Identify the following place:Mohatta Palace@null@null@null/Mohatta Palace
+*Q17*Identify the following place:Sheesh Mahal@null@null@null/Sheesh Mahal
+*Q18*Identify the following person:Rehman Malik@null@null@null/Rehman Malik
+*Q19*Identify the following person:Hamid Karzai@null@null@null/Hamid Karzai
+*Q20*Identify the following person:Syed Shafaat Ali@null@null@null/Syed Shafaat Ali
+*Q21*Identify the following person:Sheikh Mujeeb ur Rehman@null@null@null/Sheikh Mujeeb ur Rehman
+*Q22*Identify the following person:Manmohan Singh@null@null@null/Manmohan Singh
+*Q23*Identify the following person:putin@null@null@null/putin
+*Q24*Identify the following person:Fawad Khan@null@null@null/Fawad Khan
+*Q25*Identify the following person:Sadiq Khan,first Muslim mayor of London@null@null@null/Sadiq Khan,first Muslim mayor of London
+*Q26*Identify the following person:Ali Zafar@null@null@null/Ali Zafar

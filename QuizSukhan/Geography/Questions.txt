@@ -1,0 +1,60 @@
+*Q1*Pakistan shares 2912 km long border with:India@Iran@Afghanistan@China/India
+*Q2*Which mountain range has a length of 2700km?:Himalayas@Karakorum@Hindu Kash@Pir Panjai/Himalayas
+*Q3*Which peak is located in Karakorum Range:Nanga Parbat@Rakaposhi@Takht-e-Sulaiman@K-2/K-2
+*Q4*Which dam has been built on Kabul River?:Mangla Dam@Tarbela Dam@Gomal Dam@Warsak Dam/Warsak Dam
+*Q5*The Upper Indus Plain consist of areas between Attock to:Hyderabad@Sukkur@Multan@Mithankot/Mithankot
+*Q6*Which percentage of the land of every country should be covered with forest according to international standards:10%@15%@20%@25%/25%
+*Q7*Which desert is located in Eastern part of Punjab?:Thal Desert@Cholistan Desert@Karan Desert@Thar Desert/Cholistan Desert
+*Q8*How many rivers were given to India through Indus Water Treaty(1960)?:Two rivers@Three rivers@Four rivers@Five rivers/Three rivers
+*Q9*In which province maximum languages are spoken?:Sindh@Punjab@Balochistan@Khyber PK/Balochistan
+*Q10*The first nuclear power plant in Pakistan was established at:Chashma@Karachi@Mianwali@Karachi/Karachi
+*Q11*Which crop is given the name of Silver Fibre?:Wheat@Barley@Gram@Cotton/Cotton
+*Q12*The Karez system of irrigation is used in province of:Sindh@Balochistan@NWFP@Punjab/Balochistan
+*Q13*The largest dam of Pakistan is:Bhasha@Mangla@Warsak@Tarbela/Tarbela
+*Q14*Which is the largest desert of Pakistan by area?:Karan@Cholistan@Thar@Thal/Thal
+*Q15*Kalabagh Dam is planned to be built on the river:Jhelum@Indus@Kabul@None of these/Indus
+*Q16*Which one of these is the largest forest of Pakistan?:Changa Manga@Riverine Forest@Mangrove Forest@Jonepur/Changa Manga
+*Q17*K-2 is also known as:Roshan Peak@Roof of the world@The Danger World@Mount Godwin-Austin/Mount Godwin-Austin
+*Q18*The Khyber Pass connects Pakistan with:Afghanistan@China@Iran@India/Afghanistan
+*Q19*India is located on the ____ side of Pakistan?:East@South@North@West/East
+*Q20*Total number of districts included in KPK province is:30@26@23@28/26
+*Q21*Which is the longest river of Pakistan:Sutlej@Jhelum@Chenab@Indus/Indus
+*Q22*In which Province Mangla Dam is located?:Sindh@Balochistan@Punjab@Khyber Pakhtunkhawa/Punjab
+*Q23*Which is the largest province of Pakistan?: Sindh@Balochistan@Punjab@Khyber Pakhtunkhawa/Balochistan
+*Q24*Total number of Provinces in Pakistan?:4@3@5@6/4
+*Q25* Which is the smallest province of Pakistan?: Sindh@Balochistan@Punjab@Khyber Pakhtunkhawa/Khyber Pakhtunkhawa
+*Q26*The most beautiful marble stone is extracted from province: Sindh@Balochistan@Punjab@Khyber Pakhtunkhawa/Balochistan
+*Q27*Which one of the following is the largest district of Pakistan?:Karachi@Chaggi@Bahawalpur@Khuzdar/Chaggi
+*Q28*Karakoram Pass connects Kashmir with:Afghanistan@India@Iran@China/China
+*Q29* With respect to area which is the largest province of Pakistan?:Punjab@Sindh@Khyber Pakhtoonkhawa@None of the above/None of the above
+*Q30*Under Indus Water Treaty the rivers given to Pakistan are:Indus, Jhelum, Chenab@ Indus, Jhelum, Ravi@null@null/Indus, Jhelum, Chenab
+*Q31*Trich Mir is the highest peak of:Hindu Kush@Korakoram Range@null@null/Hindu Kush
+*Q32*Border between Pakistan and Afghanistan is known as:Durand Line@Pak-Afghan Border@null@null/Durand Line
+*Q33*In terms of temperature, the hottest place in Pakistan is:Multan@Jacobabad@null@null/Jacobabad
+*Q34* In terms of temperature, the coolest place in Pakistan is:Skardu@Drosh@null@null/Skardu
+*Q35*Most important cash crop for Pakistan is:Wheat@Rice@null@null/Wheat
+*Q36*Which crop belongs to category of minor crop?:Masoor@Cotton@null@null/Masoor
+*Q37*Largest fresh water lake of Pakistan is:Manchar Lake@Sat Para Lake@null@null/Manchar Lake
+*Q38* Total Area of Pakistan is:796,095@772,090@null@null/796,095
+*Q39*The largest cricket stadium in Pakistan is located in:Karachi@Lahore@null@null/Karachi
+*Q40* The largest oil field in Pakistan is:Attock oilfield@Dhurnal oilfield@null@null/Dhurnal oilfield
+*Q41*_____ were the venue of nuclear explosions of Pakistan in 1998.:Chaghi Hills@Gorak Hills@null@null/Chaghi Hills
+*Q42*_____ is the artificial lake in Pakistan.:Saiful Maluk Lake@Keenjhar Lake@null@null/Keenjhar Lake
+*Q43*The second highest peak of Pakistan is:Tirchmir@Nanga Parbat@null@null/Nanga Parbat
+*Q44*The famous ‘Soan River’ belongs to:Potwar Plateau@Chaghi Hills@null@null/Potwar Plateau
+*Q45*Harappa was a centre of:Hindu civilization@Indus Valley civilization@null@null/Indus Valley civilization
+*Q46*Takht Bai an ancient historical site is located in:Balochistan@Khyber Pakhtunkhwa@null@null/Khyber Pakhtunkhwa
+*Q47*Moenjodaro is located in:Sindh@Balochistan@null@null/Sindh
+*Q48*Harappa is located in:Sindh@Punjab@null@null/Punjab
+*Q49*Which river joins Sutlej river before entering Pakistan?:Jhelum River@Beas River@null@null/Beas River
+*Q50*The second largest province of Pakistan in respect to area is:Punjab@Balochistan@null@null/Punjab
+*Q51* The second largest province of Pakistan in respect to population is:Sindh@Balochistan@null@null/Sindh
+*Q52*Wakhan a narrow strip of Afghanistan seperates Pakistan from:Tajikistan@Azerbaijan@null@null/Tajikistan
+*Q53*The city famous for its surgical instruments is:Jehlum@Sialkot@null@null/Sialkot
+*Q54*Korakoram Highway (Pak China Friendship Highway) is also known as:M-9@N-35@null@null/N-35
+*Q55*Siachin Glacier is in:Gilgit Baltistan@Swat@null@null/Gilgit Baltistan
+*Q56*Climate of Pakistan is mostly referred as:Hot and dry@Hot and moist@null@null/Hot and dry
+*Q57*Which Pakistani Province is the largest producer of natural gas?:Sindh@Punjab@null@null/Sindh
+*Q58* Which Pakistani Province is the largest producer of oil?:Sindh@Punjab@null@null/Punjab
+*Q59*Which is the biggest natural gas field of Pakistan?:Dhulian(Punjab)@Sui(Balochistan)@null@null/Sui(Balochistan)
+*Q60*Indus Plain is divided into ____ parts.:Six@Four@null@null/Four

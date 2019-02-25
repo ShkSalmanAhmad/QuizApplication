@@ -1,0 +1,27 @@
+﻿<Window x:Class="wpfquiz1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:wpfquiz1"
+        mc:Ignorable="d"
+        WindowState="Maximized"
+        Title="Quiz Application" Height="550" Width="650">
+    <Border Padding="10">
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            <Button x:Name="ChooseDirectoryButton" Click="ChooseDirectoryButton_Click"  Margin="26,32,30,34" Grid.Column="1" Grid.Row="1" Content="Choose Directory" />
+
+        </Grid>
+        
+    </Border>
+</Window>
