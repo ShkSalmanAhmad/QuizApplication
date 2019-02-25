@@ -1,2 +1,4 @@
 # QuizApplication
 This project can be used by a host of a quiz competition. The host can plug this app onto a projector and the contestants sitting in front of him will be able to answer the question plus the timer helps them in evaluating the time. When they answer the question the host clicks show answer and the answer is highlighted.
+Right now the project will ask the user for a directory. The directory should have folders of only the categories as shown in the folder I have uploaded. Each folder will have a Questions.txt file which will have questions that have a specific syntax and should be written the same way so that the program will be able to read them and extract the questions and options from it. 
+The syntax will be *Questionnumber*Question:optionA@optionB@optionC@optionD/Answer
